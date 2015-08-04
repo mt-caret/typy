@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Typy",
-  "description": "A dumb extension that gives you a field you can paste in.",
+  "description": "A dumb extension that gives you a password field which you can paste in.",
   "version": "0.1",
 
   "browser_action": {
